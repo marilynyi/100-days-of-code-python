@@ -15,7 +15,7 @@ The course aims to fulfill the following learning objectives:
 - Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 11
+## Days Completed: 12
 
 
 GitHub content for Days 6 and 7 under construction
