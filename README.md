@@ -18,5 +18,5 @@ The course aims to fulfill the following learning objectives:
 ## Days Completed: 18
 
 GitHub content for Days 6 and 7 under construction
-- The project and coding examples for Day 6 were done on the Reeborg's World site. To-do: Reproduce codes and house them in Jupyter Notebooks
+- The project and coding examples for Day 6 were done on the Reeborg's World site. To-do: Reproduce codes and house them in Jupyter Notebooks.
 - The challenges for Day 7 were combined and evolved into one project file. To-do: Break down the challenges into individual files
