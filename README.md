@@ -15,7 +15,7 @@ The course aims to fulfill the following learning objectives:
 - Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 20
+## Days Completed: 21
 
 GitHub content for Days 6 and 7 under construction
 - The project and coding examples for Day 6 were done on the Reeborg's World site. To-do: Reproduce codes and house them in Jupyter Notebooks.
