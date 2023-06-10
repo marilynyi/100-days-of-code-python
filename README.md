@@ -55,7 +55,7 @@ This repository houses all Python guided projects and relevant coding examples I
 
 - [Day 21: Snake Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-21/snake-game)
 - [Day 22: Pong Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-22/pong-game)
-- [Day 23: Pong Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-23/turtle-crossing-game)
+- [Day 23: Turtle Crossing Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-23/turtle-crossing-game)
 </details>
 <details open=""><summary>Days 31-40</summary>
 </details>
