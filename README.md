@@ -15,7 +15,7 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 22
+## Days Completed: 23
 
 >**Notes**:
 >GitHub content for Days 6 and 7 under construction
@@ -41,7 +41,7 @@ This repository houses all Python guided projects and relevant coding examples I
 
 - [Day 11: Blackjack Capstone](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-11/blackjack-capstone)
 - [Day 12: Guess the Number](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-12/guess-the-number)
-- Day 13: Debugging Practice
+- Day 13: Debugging Practice (no guided projects)
 - [Day 14: Higher-Lower Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-14/higher-lower-game)
 - [Day 15: Coffee Machine v1: No OOP](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-15/project)
 - [Day 16: Coffee Machine v2: Using OOP](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-16/coffee-machine)
@@ -55,6 +55,7 @@ This repository houses all Python guided projects and relevant coding examples I
 
 - [Day 21: Snake Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-21/snake-game)
 - [Day 22: Pong Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-22/pong-game)
+- [Day 23: Pong Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-23/turtle-crossing-game)
 </details>
 <details open=""><summary>Days 31-40</summary>
 </details>
