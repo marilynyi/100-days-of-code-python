@@ -15,7 +15,7 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 25
+## Days Completed: 26
 
 >**Notes**:
 >GitHub content for Days 6 and 7 under construction
@@ -60,6 +60,7 @@ This repository houses all Python guided projects and relevant coding examples I
   - [Snake Game with High Score](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-24/snake-game-with-high-score)
   - [Mail Merge](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-24/mail-merge)
 - [Day 25: United States Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-25/united-states-game)
+[Day 26: NATO Alphabet](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-26/nato-alphabet)
 </details>
 <details open=""><summary>Days 31-40</summary>
 </details>
