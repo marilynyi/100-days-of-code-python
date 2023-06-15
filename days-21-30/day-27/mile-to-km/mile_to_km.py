@@ -22,7 +22,7 @@ km_text.grid(column=2, row=1)
 km_output = Label(text="0")
 km_output.grid(column=1, row=1)
 
-#Entry
+# Entry
 
 miles_input = Entry(width=5)
 miles_input.grid(column=1, row=0)
