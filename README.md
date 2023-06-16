@@ -15,7 +15,7 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 27
+## Days Completed: 28
 
 >**Notes**:
 >GitHub content for Days 6 and 7 under construction
@@ -62,6 +62,7 @@ This repository houses all Python guided projects and relevant coding examples I
 - [Day 25: United States Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-25/united-states-game)
 - [Day 26: NATO Alphabet](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-26/nato-alphabet)
 - [Day 27: Miles to Kilometers](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-27/mile-to-km)
+- [Day 28: Pomodoro Timer](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-28/pomodoro-timer)
 </details>
 <details open=""><summary>Days 31-40</summary>
 </details>
