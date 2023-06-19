@@ -15,7 +15,7 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 30
+## Days Completed: 31
 
 >**Notes**:
 >GitHub content for Days 6 and 7 under construction
@@ -67,6 +67,7 @@ This repository houses all Python guided projects and relevant coding examples I
 - [Day 30: Password Manager with Exceptions](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-30/password-manager-w-exceptions)
 </details>
 <details open=""><summary>Days 31-40</summary>
+- [Day 31: Flash Card App](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-31/flash-card-app)
 </details>
 <details open=""><summary>Days 41-50</summary>
 </details>
