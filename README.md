@@ -68,6 +68,7 @@ This repository houses all Python guided projects and relevant coding examples I
 </details>
 <details open=""><summary>Days 31-40</summary>
 - [Day 31: Flash Card App](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-31/flash-card-app)
+- [Day 32: Automated Birthday Wisher](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-32/automated-birthday-wisher)
 </details>
 <details open=""><summary>Days 41-50</summary>
 </details>
