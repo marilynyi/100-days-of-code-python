@@ -13,7 +13,7 @@ CITY_LNG = -105.041122
 
 def is_iss_overhead():
 
-    response = requests.get(url="https://api.sunrise-sunset.org/json", params=parameters)
+    response = requests.get(url="http://api.open-notify.org/iss-now.json")
     response.raise_for_status()
     data = response.json()
 
@@ -43,9 +43,6 @@ def is_night():
     sunset_utc = dt.datetime.strptime(sunset_utc, "%Y-%m-%d %H:%M:%S")
     sunset_mt = sunset_utc.astimezone(timezone('US/Mountain')).replace(tzinfo=None)
     sunset_mt = sunset_mt - dt.timedelta(hours=6)
-
-    print(sunrise_mt)
-    print(sunset_mt)
 
     time_utc = str(dt.datetime.now(timezone('UTC')).replace(microsecond=0)).replace("+00:00","")
     time_utc = dt.datetime.strptime(time_utc, "%Y-%m-%d %H:%M:%S")
