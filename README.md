@@ -15,7 +15,7 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 31
+## Days Completed: 34
 
 >**Notes**:
 >GitHub content for Days 6 and 7 under construction
@@ -70,6 +70,7 @@ This repository houses all Python guided projects and relevant coding examples I
 - [Day 31: Flash Card App](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-31/flash-card-app)
 - [Day 32: Automated Birthday Wisher](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-32/automated-birthday-wisher)
 - [Day 33: ISS Location & Email Notification](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-33/iss-location-and-email)
+- [Day 34: Quizzler App](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-34/quizzler-app)
 </details>
 <details open=""><summary>Days 41-50</summary>
 </details>
