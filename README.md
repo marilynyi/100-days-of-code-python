@@ -71,6 +71,7 @@ This repository houses all Python guided projects and relevant coding examples I
 - [Day 32: Automated Birthday Wisher](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-32/automated-birthday-wisher)
 - [Day 33: ISS Location & Email Notification](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-33/iss-location-and-email)
 - [Day 34: Quizzler App](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-34/quizzler-app)
+- [Day 35: Rain Alert](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-35/rain-alert)
 </details>
 <details open=""><summary>Days 41-50</summary>
 </details>
