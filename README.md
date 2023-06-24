@@ -15,7 +15,7 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 35
+## Days Completed: 36
 
 >**Notes**:
 >GitHub content for Days 6 and 7 under construction
@@ -73,6 +73,7 @@ This repository houses all Python guided projects and relevant coding examples I
 - [Day 33: ISS Location & Email Notification](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-33/iss-location-and-email)
 - [Day 34: Quizzler App](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-34/quizzler-app)
 - [Day 35: Rain Alert](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-35/rain-alert)
+- [Day 36: Stock News](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-36/stock-news)
 </details>
 <details open=""><summary>Days 41-50</summary>
 </details>
