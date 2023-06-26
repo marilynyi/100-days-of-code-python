@@ -15,7 +15,7 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 37
+## Days Completed: 38
 
 >**Notes**:
 >GitHub content for Days 6 and 7 under construction
@@ -47,13 +47,14 @@ This repository houses all Python guided projects and relevant coding examples I
 - [Day 16: Coffee Machine v2: Using OOP](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-16/coffee-machine)
 - [Day 17: Quiz Brain Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-17/quiz-brain)
 - [Day 18: Hirst Painting](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-18/hirst-painting)
-- [Day 19.1: Etch-a-Sketch](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-19/etch-a-sketch)
-- [Day 19.2: Turtle Race](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-19/turtle-race)
+- Day 19:
+  - [Etch-a-Sketch](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-19/etch-a-sketch)
+  - [Turtle Race](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-19/turtle-race)
 - [Day 20: Snake Game pt. 1](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-20/snake-game-part-1)
 </details>
 <details open=""><summary>Days 21-30</summary>
 
-- [Day 21: Snake Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-21/snake-game)
+- [Day 21: Snake Game pt. 2](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-21/snake-game)
 - [Day 22: Pong Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-22/pong-game)
 - [Day 23: Turtle Crossing Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-23/turtle-crossing-game)
 - Day 24:
@@ -75,6 +76,7 @@ This repository houses all Python guided projects and relevant coding examples I
 - [Day 35: Rain Alert](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-35/rain-alert)
 - [Day 36: Stock News](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-36/stock-news)
 - [Day 37: Habit Tracker](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-37/habit-tracker)
+- [Day 38: Workout Tracker](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-38/workout-tracker)
 </details>
 <details open=""><summary>Days 41-50</summary>
 </details>
