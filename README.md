@@ -15,7 +15,7 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 38
+## Days Completed: 39
 
 >**Notes**:
 >GitHub content for Days 6 and 7 under construction
@@ -77,6 +77,7 @@ This repository houses all Python guided projects and relevant coding examples I
 - [Day 36: Stock News](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-36/stock-news)
 - [Day 37: Habit Tracker](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-37/habit-tracker)
 - [Day 38: Workout Tracker](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-38/workout-tracker)
+- [Day 39: Flight Deals](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-39/flight_deals)
 </details>
 <details open=""><summary>Days 41-50</summary>
 </details>
