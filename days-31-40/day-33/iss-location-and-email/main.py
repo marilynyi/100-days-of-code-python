@@ -3,13 +3,13 @@ import datetime as dt
 from pytz import timezone
 import smtplib
 import time
+import config
 
-CITY_LAT = 39.863510
-CITY_LNG = -105.041122
+CITY_LAT = config.lat
+CITY_LNG = config.lng
 
-# Uncomment and add actual email credentials for Python program to work
-# MY_EMAIL = "testemail@gmail.com"
-# PASSWORD = "password"
+MY_EMAIL = config.email
+PASSWORD = config.app_password
 
 def is_iss_overhead():
 

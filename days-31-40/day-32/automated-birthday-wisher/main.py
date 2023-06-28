@@ -2,12 +2,13 @@ import datetime as dt
 import random
 import pandas as pd
 import smtplib
+import config
 
 TODAY = dt.datetime.now()
 TODAY_TUPLE = (TODAY.month, TODAY.day)
 # Uncomment below and add actual email credentials for Python program to work
-# MY_EMAIL = "testsender@gmail.com"
-# PASSWORD = "password"
+MY_EMAIL = config.email
+PASSWORD = config.password
 
 data = pd.read_csv("birthdays.csv")
 
@@ -15,7 +16,7 @@ birthdays_dict = {(data_row["month"], data_row["day"]): data_row for (index, dat
 
 if TODAY_TUPLE in birthdays_dict:
     birthday_person = birthdays_dict[TODAY_TUPLE]
-    file_path = f"letter_{random.randint(1,3)}.txt"
+    file_path = f"letter_templates/letter_{random.randint(1,3)}.txt"
     with open(file_path) as letter_file:
         contents = letter_file.read()
         contents = contents.replace("[NAME]", birthday_person["name"])
