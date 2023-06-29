@@ -1,15 +1,23 @@
-### Flight Deals Google Sheets file
-File resides in hidden `config` folder.\
-`City` and `Lowest Price` are manual inputs.\
-`IATA Code` column populates airport codes when `main.py` is run
+# Day 39: Flight Deals
+
+Send SMS text messages notifying the user of any flight deals in the next six months. Destination cities and price thresholds are supplied by the user in the `Flight Deals` Google Sheets doc.
+
+## Flight Deals doc
+- File resides in hidden `config` folder. 
+- User manually populates the
+`City` and `Lowest Price` columns with their desired destinations and price thresholds.
+- `IATA Code` column auto-populates when `main.py` is run.
 
 <img 
   src="https://github.com/marilynyi/100-days-of-code-python/blob/main/days-31-40/day-39/flight-deals/images/Flight_Deals.png"
   width="400">
 
-### SMS Text Example
-When `main.py` is run, SMS text messages are sent via Twilio,\
-only if prices for flights in the next 6 months are lower than the prices stated in the Google Sheets file.
+## SMS Text Notification
+SMS text messages are sent only if
+- prices are lower than specified price thresholds
+- flights are non-stop (no layovers)
+- flights are within the next 6 months
+- trips are between 7-28 days long
 
 <img 
   src="https://github.com/marilynyi/100-days-of-code-python/blob/main/days-31-40/day-39/flight-deals/images/SMS_Test.PNG" 
