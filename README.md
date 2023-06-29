@@ -80,7 +80,7 @@ This repository houses all Python guided projects and relevant coding examples I
 </details>
 <details open=""><summary>Days 41-50</summary>
 
-- Day 41: [](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-41/flight-club)
+- Day 41: [Movie Ranking](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-41/movie-ranking)
 </details>
 <details open=""><summary>Days 51-60</summary>
 </details>
