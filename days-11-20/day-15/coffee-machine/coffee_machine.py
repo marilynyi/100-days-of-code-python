@@ -58,6 +58,10 @@ def main():
     while is_on:
 
         # Ask user for a drink type
+        print("Coffee Machine Menu")
+        print(f'1. Espresso: ${MENU["espresso"]["cost"]:.2f}')
+        print(f'2. Latte: ${MENU["latte"]["cost"]:.2f}')
+        print(f'3. Cappuccino: ${MENU["cappuccino"]["cost"]:.2f}')
         user_input = input("What would you like? (espresso/latte/cappuccino): ")
 
         # Print current resources and money stored if user types 'report'

@@ -59,7 +59,8 @@ def main():
 
         # Break loop if user runs out of attempts
         if guesses == 0:
-            sys.exit("You've run out of guesses, you lose.")
+            print("You've run out of guesses, you lose.")
+            sys.exit(f"The correct answer is {correct_answer}.")
         else:
             print("Guess again.")
 

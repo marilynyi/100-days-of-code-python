@@ -13,13 +13,12 @@ Day 39 Project Recap:
 - Flight searches included only non-stop flight deals
 
 ## Add a new user
-`customer-acquisition/main.py`
+
 <img 
   src="https://github.com/marilynyi/100-days-of-code-python/blob/main/days-31-40/day-40/flight-club/demos/customer-acquisition.gif">
 
 ## Populate airport codes
 
-`main.py`
 <img 
   src="https://github.com/marilynyi/100-days-of-code-python/blob/main/days-31-40/day-40/flight-club/demos/populate-iata-codes.gif">
 

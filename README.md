@@ -18,7 +18,7 @@ This repository houses all Python guided projects and relevant coding examples I
 ## Days Completed: 40
 
 >**Notes**:
->Demo gifs currently TBD for days 11+
+>Demo gifs currently TBD for days 21+
 
 ## Projects
 
@@ -41,7 +41,7 @@ This repository houses all Python guided projects and relevant coding examples I
 - Day 12: [Guess the Number](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-12/guess-the-number)
 - Day 13: Debugging Practice (no guided projects)
 - Day 14: [Higher-Lower Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-14/higher-lower-game)
-- Day 15: [Coffee Machine v1: No OOP](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-15/project)
+- Day 15: [Coffee Machine v1: No OOP](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-15/coffee-machine)
 - Day 16: [Coffee Machine v2: Using OOP](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-16/coffee-machine)
 - Day 17: [Quiz Brain Game](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-17/quiz-brain)
 - Day 18: [Hirst Painting](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-18/hirst-painting)

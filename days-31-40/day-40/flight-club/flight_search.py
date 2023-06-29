@@ -50,6 +50,8 @@ class FlightSearch:
             data = response.json()["data"][0]
             # pprint(data)
         except IndexError:
+            
+            # Find flights with one layover
             params["max_stopovers"] = 2
             response = requests.get(
                 url=f"{TEQUILA_ENDPOINT}/v2/search",
