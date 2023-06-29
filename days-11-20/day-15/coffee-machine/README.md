@@ -16,7 +16,7 @@ The machine starts with the following resources:
 - Coffee: 100g
 
 ## Ordering an item
-<img src="https://github.com/marilynyi/100-days-of-code-python/blob/main/days-11-20/day-15/coffee-machine/demos/demo_cappuccino.gif">
+<img src="https://github.com/marilynyi/100-days-of-code-python/blob/main/days-11-20/day-15/coffee-machine/demos/demo_order_success.gif">
 
 ## Pulling a report of the remaining resources
 <img src="https://github.com/marilynyi/100-days-of-code-python/blob/main/days-11-20/day-15/coffee-machine/demos/demo_report.gif">
