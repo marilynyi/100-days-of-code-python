@@ -18,7 +18,7 @@ This repository houses all Python guided projects and relevant coding examples I
 ## Days Completed: 40
 
 >**Notes**:
->Demo gifs currently TBD for days 21+
+>Demo gifs currently TBD for days 31+
 
 ## Projects
 

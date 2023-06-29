@@ -29,13 +29,15 @@ miles_input.grid(column=1, row=0)
 
 # Button
 
-def calculate():
+def calculate(event=None):
     miles_float = float(miles_input.get())
     input_km = round(miles_float * KM_IN_ONE_MILE, 2)
     km_output.config(text=f"{input_km}")
 
-calculate = Button(text="Calculate", command=calculate)
-calculate.grid(column=1, row=2)
+calc = Button(text="Calculate", command=calculate)
+calc.grid(column=1, row=2)
+
+window.bind('<Return>', calculate)
 
 
 window.mainloop()
