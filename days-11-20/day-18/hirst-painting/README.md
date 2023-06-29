@@ -4,7 +4,7 @@ Hirst dot paintings have fetched up to \$19.2 million. We recreate one using the
 
 ## Color palette inspiration
 
-<img src="https://github.com/marilynyi/100-days-of-code-python/blob/main/days-11-20/day-18/hirst-painting/image2.jpg">
+<img src="https://github.com/marilynyi/100-days-of-code-python/blob/main/days-11-20/day-18/hirst-painting/image2.jpg" width=400>
 
 ## Our very own Hirst painting
 

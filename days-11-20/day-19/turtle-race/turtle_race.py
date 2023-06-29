@@ -10,6 +10,7 @@ colors = ["red", "orange", "yellow", "green", "blue", "purple"]
 turtles = []
 
 new_turtle = Turtle()
+new_turtle.hideturtle()
 start_pos = -100
 count = 0
 gap = 50

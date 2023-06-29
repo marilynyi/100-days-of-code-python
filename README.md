@@ -15,10 +15,10 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 40
+## Days Completed: 41
 
 >**Notes**:
->Demo gifs currently TBD for days 31+
+>Demo gifs currently TBD for days 32+
 
 ## Projects
 
@@ -79,6 +79,8 @@ This repository houses all Python guided projects and relevant coding examples I
 - Day 40: [Flight Club](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-40/flight-club)
 </details>
 <details open=""><summary>Days 41-50</summary>
+
+- Day 41: [](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-41/flight-club)
 </details>
 <details open=""><summary>Days 51-60</summary>
 </details>
