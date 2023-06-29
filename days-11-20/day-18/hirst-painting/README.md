@@ -1,6 +1,6 @@
 # Day 18: Hirst Painting
 
-Hirst dot paintings have fetched up to \\$19.2 million. We recreate one using the Turtle Python module. To inspire a specified color palette, we used a random image.
+Hirst dot paintings have fetched up to \$19.2 million. We recreate one using the Turtle Python module. To inspire a specified color palette, we used a random image.
 
 ## Color palette inspiration
 
