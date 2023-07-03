@@ -87,7 +87,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 41 | [Movie Ranking](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-41/movie-ranking) | [Web Foundation] Introduction to HTML | 
 | 42 | [Birthday Invite Website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-42/birthday-invite-website) | [Web Foundation] Intermediate HTML | 
 | 43 | [Color Vocab Website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-43/color-vocab-website) | [Web Foundation] Introduction to CSS |
-| 44 | | [Web Foundation] Intermediate CSS | 
+| 44 | [Motivation Meme Poster](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-44/motivation-meme-poster) | [Web Foundation] Intermediate CSS | 
 | 45 | | [Intermediate+] Web Scraping with Beautiful Soup | 
 | 46 | | [Intermediate+] Create a Spotify Playlist using the Musical Time Machine | 
 | 47 | | [Intermediate+] Create an Automated Amazon Price Tracker | 
