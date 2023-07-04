@@ -1,6 +1,6 @@
 # Day 46: Spotify Playlist
 
-Scrape the Billboard Hot 100 list for a specific date and compile the songs into a Spotify playlist.
+Scrape the Billboard Hot 100 list on a specific date and compile the songs into a Spotify playlist.
 
 ## Billboard Hot 100
 We use the Billboard Hot 100 list on [April 1, 2000](https://www.billboard.com/charts/hot-100/2000-04-01/) for this example. Any valid date in the past with the format YYYY-MM-DD will work.
