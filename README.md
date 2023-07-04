@@ -89,7 +89,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 43 | [Color Vocab Website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-43/color-vocab-website) | [Web Foundation] Introduction to CSS |
 | 44 | [Motivation Meme Poster](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-44/motivation-meme-poster) | [Web Foundation] Intermediate CSS | 
 | 45 | [Top 100 Movies](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-45/top-100-movies) | [Intermediate+] Web Scraping with Beautiful Soup | 
-| 46 | | [Intermediate+] Create a Spotify Playlist using the Musical Time Machine | 
+| 46 | [Spotify Playlist](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-46/spotify-playlist) | [Intermediate+] Create a Spotify Playlist using the Musical Time Machine | 
 | 47 | | [Intermediate+] Create an Automated Amazon Price Tracker | 
 | 48 | | [Intermediate+] Selenium Webdriver Browser and Game Playing Bot | 
 | 49 | | [Intermediate+] Automating Job Applications on LinkedIn | 
