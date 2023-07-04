@@ -15,7 +15,7 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 45
+## Days Completed: 46
 
 >**Notes**:
 >Demo gifs currently TBD for days 32+
