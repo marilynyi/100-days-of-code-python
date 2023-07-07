@@ -15,7 +15,7 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Build GUIs and Desktop applications with Python
 
 # Current Progress
-## Days Completed: 47
+## Days Completed: 48
 
 >**Notes**:
 >Demo gifs currently TBD for days 32+
@@ -90,8 +90,8 @@ This repository houses all Python guided projects and relevant coding examples I
 | 44 | [Motivation Meme Poster](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-44/motivation-meme-poster) | [Web Foundation] Intermediate CSS | 
 | 45 | [Top 100 Movies](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-45/top-100-movies) | [Intermediate+] Web Scraping with Beautiful Soup | 
 | 46 | [Spotify Playlist](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-46/spotify-playlist) | [Intermediate+] Create a Spotify Playlist using the Musical Time Machine | 
-| 47 | [Amazon Price Tracker](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-47/amazon-price-tracker) | [Intermediate+] Create an Automated Amazon Price Tracker | 
-| 48 | | [Intermediate+] Selenium Webdriver Browser and Game Playing Bot | 
+| 47 | [Amazon Price Tracker](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-47/amazon-price-tracker/) | [Intermediate+] Create an Automated Amazon Price Tracker | 
+| 48 | [Cookie Clicker](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-48/cookie-clicker/) | [Intermediate+] Selenium Webdriver Browser and Game Playing Bot | 
 | 49 | | [Intermediate+] Automating Job Applications on LinkedIn | 
 | 50 | | [Intermediate+] Auto Tinder Swiping Bot | 
 </details>
