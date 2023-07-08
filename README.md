@@ -2,8 +2,9 @@
 
 This repository houses all Python guided projects and relevant coding examples I have written during Angela Yu's [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) on Udemy.
 
+<details><summary>Course Details</summary>
+
 >The course aims to fulfill the following learning objectives:
->
 >- Master the Python programming language by building 100 unique projects over 100 days
 >- Learn automation, game, app and web development, data science and machine learning all using Python.
 >- Be able to program in Python professionally
@@ -13,6 +14,8 @@ This repository houses all Python guided projects and relevant coding examples I
 >- Be able to use Python for data science and machine learning
 >- Build games like Blackjack, Pong and Snake using Python
 >- Build GUIs and Desktop applications with Python
+</details>
+<br>
 
 # Current Progress
 ## Days Completed: 49
@@ -20,7 +23,7 @@ This repository houses all Python guided projects and relevant coding examples I
 >**Notes**:
 >Demo gifs currently TBD for days 32+
 
-<details open=""><summary>Days 1-10</summary>
+<details><summary>Days 1-10</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
@@ -35,7 +38,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 9 | [Blind Auction](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-01-10/day-09/blind-auction) | [Beginner] Dictionaries, Nesting and the Secret Auction |
 | 10 | [Calculator](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-01-10/day-10/calculator) | [Beginner] Functions with Outputs |
 </details>
-<details open=""><summary>Days 11-20</summary>
+<details><summary>Days 11-20</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
@@ -50,7 +53,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 19 | - [Etch-a-Sketch](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-19/etch-a-sketch)<br>- [Turtle Race](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-19/turtle-race) | [Intermediate] Instances, State and Higher Order Functions | 
 | 20 | [Snake Game pt. 1](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-11-20/day-20/snake-game-part-1) | [Intermediate] Build the Snake Game Part 1: Animation & Coordinates |
 </details>
-<details open=""><summary>Days 21-30</summary>
+<details><summary>Days 21-30</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
@@ -65,7 +68,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 29 | [Password Manager](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-29/password-manager) | [Intermediate] Building a Password Manager GUI App with Tkinter | 
 | 30 | [Password Manager w/ Exceptions](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-21-30/day-30/password-manager-w-exceptions) | [Intermediate] Errors, Exceptions and JSON Data: Improving the Password | 
 </details>
-<details open=""><summary>Days 31-40</summary>
+<details><summary>Days 31-40</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
