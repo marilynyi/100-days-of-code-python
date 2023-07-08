@@ -10,11 +10,11 @@ LinkedIn settings:
 - At minimum, set job search filter to include `Easy Apply`. Customize all job filters and then copy the entire URL.
 
 Code execution:
-- The browser will try to open the customed LinkedIn Jobs URL.
+- The browser will try to open the custom LinkedIn Jobs URL.
 - Sign-in is automated before accessing the Jobs webpage.
 - Script will select each job in the list and either:
     - Cancel and discard applications if, after clicking `Easy Apply`, the first page of the pop-up window does not have a `Submit application` button, or
-    - Submit application if they are truly "easy" to apply to.
+    - Submit applications if they are truly "easy" to apply to.
 
 ## Using Selenium to sign in to LinkedIn
 
