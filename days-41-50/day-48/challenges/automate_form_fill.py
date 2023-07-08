@@ -7,7 +7,7 @@ chrome_options = Options()
 chrome_options.add_experimental_option("detach", True)
 
 chrome_driver_path = "/Users/marilynyi/Development/chromedriver"
-driver = webdriver.Chrome(options=chrome_options ,service=Service(chrome_driver_path))
+driver = webdriver.Chrome(options=chrome_options, service=Service(chrome_driver_path))
 
 driver.set_window_size(800, 800)
 
