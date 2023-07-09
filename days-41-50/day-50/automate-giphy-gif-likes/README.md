@@ -19,9 +19,11 @@ We ask the user in the terminal for three inputs:
 - GIF #1 has all split hash tags `#cute` and `#chihuahua` so it gets favorited.
 
     <img src="demos/gif1.png" width=200>
+
 - GIF #2 is already favorited so it gets skipped regardless of hash tag matches.
 
     <img src="demos/gif2.png" width=200>
+
 - GIF #3 does not have either of the following:
     - **all split hash tags**: `#cute` and `#chihuahua`, or 
     - the original search phrase as a hash tag: `#cute chihuahua` 
@@ -39,7 +41,7 @@ We ask the user in the terminal for three inputs:
 
 ### Console output
 
-<img src="demos/console-output.png" width=600>
+<img src="demos/output.png" width=600>
 
 ### Manual inputs in the terminal
 - Prompts user in the terminal if they want to log in to Giphy
@@ -73,6 +75,11 @@ We ask the user in the terminal for three inputs:
 - Clicks the right arrow to go to the next GIF
 - Loops until specified number of GIFs to go through is reached
 - Closes the browser 
+
+### Console prints
+
+- Prints messages in terminal to follow along program execution
+- Prints total added and skipped counts at the end
 
 ## Code run examples
 

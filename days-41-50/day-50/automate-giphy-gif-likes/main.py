@@ -45,8 +45,8 @@ logging.critical(f"{include_hashtags=}")
 EMAIL = config.email
 PASSWORD = config.password
 
-# Set number of sleep seconds
-SLEEP_SECONDS = 3
+# Set number of short sleep seconds
+SLEEP_SHORT = 3
 
 #----------------------------- Browser settings -----------------------------#
 
@@ -68,25 +68,18 @@ if giphy_account == "y":
     
     # Open and load generic URL
     # Logging in to Giphy takes you to your channel automatically
-    driver.get("https://giphy.com/")
+    driver.get("https://giphy.com/login")
 
-    time.sleep(SLEEP_SECONDS)
-    
+    time.sleep(SLEEP_SHORT)
+
+    # Close the 'Privacy Policy' banner (if it exists) at the top   
     try:
-        # Close the 'Privacy Policy' banner (if it exists) covering the Login button
         close_button = driver.find_element("css selector", ".CloseButton-sc-ecivd4")
         close_button.click()
-        time.sleep(SLEEP_SECONDS)
-        
-        # Click 'Login' button to redirect to login page
-        login_button = driver.find_element("css selector", ".Username-sc-xgchsp")
-        login_button.click()
-        time.sleep(5)
     except NoSuchElementException:
-        # Click 'Login' button to redirect to login page
-        login_button = driver.find_element("css selector", ".Username-sc-xgchsp")
-        login_button.click()
-        time.sleep(SLEEP_SECONDS)
+        pass
+    
+    time.sleep(SLEEP_SHORT)
 
     # Fill in email address
     email = driver.find_element("name", "email")
@@ -100,7 +93,7 @@ if giphy_account == "y":
     log_in_button = driver.find_element("css selector", ".Button-sc-nzk41b")
     log_in_button.click()
 
-    time.sleep(SLEEP_SECONDS)
+    time.sleep(SLEEP_SHORT)
     
     # Types user input in Search bar
     search_field = driver.find_element("name", "search")
@@ -112,21 +105,24 @@ else:
     # Open and load specified URL
     driver.get(f"https://giphy.com/search/{SEARCH_FOR}")
     
-time.sleep(SLEEP_SECONDS)
+time.sleep(SLEEP_SHORT)
 
 #-------------------------- Going to GIF-only page --------------------------#
 
 # Click on first GIF in the list
 first_gif = driver.find_element("css selector", ".giphy-grid picture img")
 first_gif.click()
-    
-time.sleep(SLEEP_SECONDS)
+
+time.sleep(SLEEP_SHORT)
 
 #---------------------- Adding to Favorite collection -----------------------#
 
+add_count = 0
+skip_count = 0
+
 for n in range(GIF_COUNT):
     
-    logging.critical(f"Viewing GIF #{n+1}.")
+    print(f"Viewing GIF #{n+1}.")
     
     # Find GIF hash tags and add to list
     hash_tags = driver.find_elements("css selector", ".TagsContainer-sc-1i1183u a h3")
@@ -139,32 +135,35 @@ for n in range(GIF_COUNT):
         
     logging.critical(gif_tags)
 
-    # Count occurrence of split phrase words in image gif tags
-    count = 0
+    # Count occurrence of split phrase words in GIF hash tags
+    split_tag_count = 0
     for hashtag in include_hashtags[:-1]:
         if hashtag in gif_tags:
-            count += 1
+            split_tag_count += 1
             
-    logging.critical(f"{count=} out of {len(include_hashtags[:-1])}")
+    logging.critical(f"{split_tag_count=} out of {len(include_hashtags[:-1])}")
 
-    # Click Favorite button if GIF tags have:
-    #   if image is not already favorited
+    # Click Favorite button if:
+    #   image is not already favorited
     #   and
     #   one or both of the following:
     #       (1) the initial search word
     #       (2) all of the words split from the initial search phrase
     try:
         gif_already_favorited = driver.find_element("css selector", ".FavoriteContainer-sc-rjzgpb .bgrYln")
-        print("GIF already favorited. Skipped.")
+        print(f"GIF #{n+1} already favorited. Skipped.")
+        skip_count += 1
     except NoSuchElementException:
-        if count == len(include_hashtags[:-1]) or include_hashtags[-1] in gif_tags:
+        if split_tag_count == len(include_hashtags[:-1]) or include_hashtags[-1] in gif_tags:
             favorite_button = driver.find_element("css selector", ".FavoriteContainer-sc-rjzgpb")
             favorite_button.click()
             print(f"GIF #{n+1} added to Favorites.")
+            add_count += 1
         else:
             print(f"GIF #{n+1} skipped.")
+            skip_count += 1
 
-    time.sleep(SLEEP_SECONDS)
+    time.sleep(SLEEP_SHORT)
     
     # Stay on last GIF page when terminating bot
     if n == GIF_COUNT-1:
@@ -172,10 +171,10 @@ for n in range(GIF_COUNT):
 
     # Go to next GIF
     try:
-        # Close the 'Privacy Policy' banner (if it exists) covering the Login button
+        # Close the 'Privacy Policy' banner (if it exists) at the top   
         close_button = driver.find_element("css selector", ".CloseButton-sc-ecivd4")
         close_button.click()
-        time.sleep(SLEEP_SECONDS)
+        time.sleep(SLEEP_SHORT)
         
         # Go to next GIF
         right_arrow_button = driver.find_element("css selector", ".ss-navigateright")
@@ -187,10 +186,12 @@ for n in range(GIF_COUNT):
         right_arrow_button.click()  
         print("Going to next GIF.")
 
-    time.sleep(SLEEP_SECONDS)
+    time.sleep(SLEEP_SHORT)
 
 # Print in terminal once bot is stopped
-print("Explored all GIFs. Bot has stopped.")
+print(f"Explored all {GIF_COUNT} GIFs. Bot has stopped.")
+print(f"Total GIFs favorited: {add_count}")
+print(f"Total GIFs skipped: {skip_count}")
 
 # Close browser
 driver.quit()
