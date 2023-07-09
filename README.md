@@ -18,10 +18,10 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 49
+## Days Completed: 50
 
 >**Notes**:
->Demo gifs currently TBD for days 32+
+>Demo gifs currently TBD for days 32-38
 
 <details><summary>Days 1-10</summary>
 
@@ -96,9 +96,9 @@ This repository houses all Python guided projects and relevant coding examples I
 | 47 | [Amazon Price Tracker](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-47/amazon-price-tracker/) | [Intermediate+] Create an Automated Amazon Price Tracker | 
 | 48 | [Cookie Clicker](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-48/cookie-clicker/) | [Intermediate+] Selenium Webdriver Browser and Game Playing Bot | 
 | 49 | [Automate LinkedIn Easy Apply](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-49/automate-linkedin-easy-apply/)| [Intermediate+] Automating Job Applications on LinkedIn | 
-| 50 | | [Intermediate+] Auto Tinder Swiping Bot | 
+| 50 | [Automate Giphy GIF Likes](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-50/automate-giphy-gif-likes/)| [Intermediate+] Auto Tinder Swiping Bot | 
 </details>
-<details><summary>Days 51-60</summary>
+<details open=""><summary>Days 51-60</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
