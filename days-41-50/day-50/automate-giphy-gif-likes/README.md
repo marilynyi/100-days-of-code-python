@@ -14,18 +14,23 @@ We ask the user in the terminal for three inputs:
 - `SEARCH_FOR` = `'cute chihuahua'`: search phrase to look up GIFs
 - `GIF_COUNT` = `'3'`: number of GIFs to "swipe" through
 
-Picture Examples shown in following demo:
+### Picture Examples shown in following demo:
 
-- GIF #1 has both hash tags `#cute` and `#chihuahua` so it gets favorited.
+- GIF #1 has all split hash tags `#cute` and `#chihuahua` so it gets favorited.
 
     <img src="demos/gif1.png" width=200>
 - GIF #2 is already favorited so it gets skipped regardless of hash tag matches.
 
     <img src="demos/gif2.png" width=200>
-- GIF #3 does not have the hash tags `#cute`, `#chihuahua`, or `#cute chihuahua` so it gets skipped.
+- GIF #3 does not have either of the following:
+    - **all split hash tags**: `#cute` and `#chihuahua`, or 
+    - the original search phrase as a hash tag: `#cute chihuahua` 
+
+    so it gets skipped.
 
     <img src="demos/gif3.png" width=200>
 
+### Demo of all three GIFs
 <img src="demos/output-example.gif" width=600>
 
 **Note**: The ♥️ has a misleading visual delay at the start of each GIF because of the sleep() function in the example above.

@@ -156,7 +156,7 @@ for n in range(GIF_COUNT):
             
     logging.critical(f"{count=} out of {len(include_hashtags[:-1])}")
 
-    # Click Favorite button if gif tags have:
+    # Click Favorite button if GIF tags have:
     #   if image is not already favorited
     #   and
     #   one or both of the following:
