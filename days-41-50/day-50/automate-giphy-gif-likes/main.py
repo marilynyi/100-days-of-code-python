@@ -106,8 +106,6 @@ if giphy_account == "y":
     search_field = driver.find_element("name", "search")
     search_field.send_keys(SEARCH_FOR)
     search_field.send_keys(Keys.RETURN)
-    
-    time.sleep(SLEEP_SECONDS)
 
 # Else if user wants to continue as a guest Giphy user
 else:
