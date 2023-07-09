@@ -106,13 +106,6 @@ if giphy_account == "y":
     search_field = driver.find_element("name", "search")
     search_field.send_keys(SEARCH_FOR)
     search_field.send_keys(Keys.RETURN)
-
-    time.sleep(SLEEP_SECONDS)
-
-    # If user input was blank, go to all trending gifs
-    if SEARCH_FOR.strip() == "":
-        all_trending_gifs = driver.find_element("css selector", ".SeeAll-sc-1k96td4")
-        all_trending_gifs.click()
     
     time.sleep(SLEEP_SECONDS)
 
