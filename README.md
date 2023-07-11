@@ -18,7 +18,7 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 51
+## Days Completed: 52
 
 >**Notes**:
 >Demo gifs currently TBD for days 32-38
@@ -103,7 +103,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
 | 51 | [ISP Twitter Complaint Bot](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-51/isp-twitter-complaint-bot/) | [Intermediate+] Internet Speed Twitter Complaint Bot |
-| 52 | | [Intermediate+] Instagram Follower Bot |
+| 52 | [Instagram Follower Bot](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-52/instagram-follower-bot/)| [Intermediate+] Instagram Follower Bot |
 | 53 | | [Intermediate+] Web Scraping Capstone - Data Entry Job Application |
 | 54 | | [Intermediate+] Introduction to Web Development with Flask |
 | 55 | | [Intermediate+] HTML & URL Parsing in Flask and the Higher Lower Game |
