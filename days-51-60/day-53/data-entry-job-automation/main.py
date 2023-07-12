@@ -2,14 +2,11 @@ import config
 import time
 import logging
 import requests
-from pprint import pformat, pprint
+from pprint import pformat
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import NoSuchElementException
-import undetected_chromedriver as UC
 
 logging.basicConfig(level=logging.CRITICAL)
 
@@ -17,7 +14,7 @@ def print_log_details(variable):
     if LOGGING_STATUS == True:
         logging.critical(variable) if LOGGING_STATUS == True else logging.disable(variable)
     
-# Set to True to print logigng details
+# Set to True to print logging details
 LOGGING_STATUS = True
      
 #-----------------------------------------------------------------------------------------------------------#
@@ -119,6 +116,7 @@ for address, price, link in zip(property_addresses, property_prices, property_li
     google_form = driver.get("https://docs.google.com/forms/d/1kxqmrdsl4yFVj8EyPi6b7fneRWXr2IbHyPrFxkguvrs")
     time.sleep(1)
     
+    # Find input fields for address, price, and link
     address_input = driver.find_element("xpath", '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input')
     price_input = driver.find_element("xpath", '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input')
     link_input = driver.find_element("xpath", '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div[1]/div/div[1]/input')
