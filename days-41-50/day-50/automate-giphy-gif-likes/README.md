@@ -1,6 +1,6 @@
 # Day 50: Automate Giphy GIF Likes
 
-This week's course project was to create a Tinder bot to automatically match with profiles by liking or disliking. 
+This day's course project was to create a Tinder bot to automatically match with profiles by liking or disliking. 
 
 I adapted this project by creating a Giphy bot instead to automatically match hashtags of GIFs with the user's search phrase. If they match, the GIF is saved to `Favorites`; otherwise, the GIF is skipped.
 
