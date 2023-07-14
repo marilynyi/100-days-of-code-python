@@ -61,4 +61,4 @@ slow_function()
 
 ### Console output
 
-<img src="output.gif" width500>
+<img src="output.gif">
