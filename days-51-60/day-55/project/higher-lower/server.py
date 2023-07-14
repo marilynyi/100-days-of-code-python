@@ -6,7 +6,11 @@ logging.basicConfig(level=logging.CRITICAL)
 
 app = Flask(__name__, static_url_path='/static')
 
-# From https://giphy.com/gifs/counter-z1HdiobjzYIrm
+# Giphy GIFs
+# Counter: https://giphy.com/gifs/counter-z1HdiobjzYIrm
+# Dog in toilet: https://giphy.com/gifs/dog-pug-poor-puppy-E9uxGrsyXjnSU
+# Astronaut dog: https://giphy.com/gifs/space-9tx0gy37p7oXu
+# Smiling dog: https://giphy.com/gifs/chihuahua-b6roFb3iFdoPu
 
 @app.route("/")
 def counter():
