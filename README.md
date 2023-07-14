@@ -106,7 +106,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 52 | [Instagram Follower Bot](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-52/instagram-follower-bot/) | [Intermediate+] Instagram Follower Bot |
 | 53 | [Data Entry Job Automation](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-53/data-entry-job-automation/) | [Intermediate+] Web Scraping Capstone - Data Entry Job Automation |
 | 54 | [Create Your Own Python Decorator](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-54/challenge/create-python-decorator) | [Intermediate+] Introduction to Web Development with Flask |
-| 55 | | [Intermediate+] HTML & URL Parsing in Flask and the Higher Lower Game |
+| 55 | [Advanced Decorators](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-55/challenge/advanced-decorators)<br>Higher or Lower URLs (in progress)| [Intermediate+] HTML & URL Parsing in Flask and the Higher Lower Game |
 | 56 | | [Intermediate+] Rendering HTML/Static files and Using Website Templates |
 | 57 | | [Intermediate+] Templating with Jinja in Flask Applications |
 | 58 | | [Web Foundation] Web Foundation Bootstrap |
