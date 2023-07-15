@@ -18,7 +18,7 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 55
+## Days Completed: 56
 
 >**Notes**:
 >Demo gifs currently TBD for days 32-38
@@ -107,7 +107,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 53 | [Data Entry Job Automation](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-53/data-entry-job-automation/) | [Intermediate+] Web Scraping Capstone - Data Entry Job Automation |
 | 54 | [Create Your Own Python Decorator](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-54/challenge/create-python-decorator) | [Intermediate+] Introduction to Web Development with Flask |
 | 55 | [Higher or Lower URLs](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-55/project/higher-lower)<br>[Advanced Decorators](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-55/challenge/advanced-decorators) | [Intermediate+] HTML & URL Parsing in Flask and the Higher Lower Game |
-| 56 | | [Intermediate+] Rendering HTML/Static files and Using Website Templates |
+| 56 | [Name Card Website Template](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-56/name-card) | [Intermediate+] Rendering HTML/Static files and Using Website Templates |
 | 57 | | [Intermediate+] Templating with Jinja in Flask Applications |
 | 58 | | [Web Foundation] Web Foundation Bootstrap |
 | 59 | | [Advanced] Blog Capstone Project Part 2 - Adding Styling |

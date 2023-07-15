@@ -1,0 +1,3 @@
+Go to local page
+Hit 'Inspect' then go to 'Console' tab
+Type 'document.body.contentEditable=true'
