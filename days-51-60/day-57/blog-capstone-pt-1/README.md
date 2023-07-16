@@ -26,7 +26,7 @@ Use Jinja to implement URL building and templating for a simple blog site.
 
 Clicking on the `Read` hyperlink takes you to the full blog post. In the example below, we visit the first one.
 
-<img src="blog_post_1.png" alt="local webpage after customization" width=600>
+<img src="blog_post_1.png" alt="blog page showing full first blog post" width=600>
 
 
 
