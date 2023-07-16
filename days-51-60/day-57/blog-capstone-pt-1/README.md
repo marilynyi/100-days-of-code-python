@@ -1,6 +1,6 @@
 # Day 57: Blog Capstone Project Part 1 - Templating
 
-Use one of the templates on [HTML5 UP](https://html5up.net/) to create a web-based name card. 
+Use Jinja to implement URL building and templating for a simple blog site.  
 
 ### Instructions
 
