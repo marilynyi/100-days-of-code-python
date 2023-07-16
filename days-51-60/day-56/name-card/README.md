@@ -28,6 +28,6 @@ Use one of the templates on [HTML5 UP](https://html5up.net/) to create a web-bas
     - Changed content text and link icons
     - Replaced avatar and background images
 
-<img src="after.png" alt="local webpage before customization" width=600>
+<img src="after.png" alt="local webpage after customization" width=600>
 
 
