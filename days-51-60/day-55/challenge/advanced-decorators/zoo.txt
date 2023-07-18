@@ -1,0 +1,7 @@
+rhino
+vulture
+snake
+meerkat
+hyena
+gazelle
+bear
