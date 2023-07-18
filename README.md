@@ -18,7 +18,7 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 57
+## Days Completed: 58
 
 >**Notes**:
 >Demo gifs currently TBD for days 32-38
@@ -83,7 +83,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 39 | [Flight Deals](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-39/flight-deals) | [Intermediate+] Capstone Part 1: Flight Deal Finder | 
 | 40 | [Flight Club](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-31-40/day-40/flight-club) | [Intermediate+] Capstone Part 2: Flight Club | 
 </details>
-<details open=""><summary>Days 41-50</summary>
+<details><summary>Days 41-50</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
@@ -109,11 +109,11 @@ This repository houses all Python guided projects and relevant coding examples I
 | 55 | [Higher or Lower URLs](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-55/project/higher-lower)<br>[Advanced Decorators](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-55/challenge/advanced-decorators) | [Intermediate+] HTML & URL Parsing in Flask and the Higher Lower Game |
 | 56 | [Name Card Website Template](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-56/name-card) | [Intermediate+] Rendering HTML/Static files and Using Website Templates |
 | 57 | [Blog Capstone Project<br>Part 1: Templating](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-57/blog-capstone-pt-1) | [Intermediate+] Templating with Jinja in Flask Applications |
-| 58 | | [Web Foundation] Web Foundation Bootstrap |
+| 58 | [TinDog Startup Website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-58/tindog) | [Web Foundation] Web Foundation Bootstrap |
 | 59 | | [Advanced] Blog Capstone Project Part 2 - Adding Styling |
 | 60 | | [Advanced] Make POST Requests with Flask and HTML Forms |
 </details>
-<details><summary>Days 61-70</summary>
+<details open=""><summary>Days 61-70</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
