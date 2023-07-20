@@ -110,7 +110,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 56 | [Name Card Website Template](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-56/name-card) | [Intermediate+] Rendering HTML/Static files and Using Website Templates |
 | 57 | [Blog Capstone Project<br>Part 1: Templating](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-57/blog-capstone-pt-1) | [Intermediate+] Templating with Jinja in Flask Applications |
 | 58 | [TinDog Startup Website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-58/tindog) | [Web Foundation] Web Foundation Bootstrap |
-| 59 | [Blog Capstone Project<br>Part 2: Adding Styling](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-57/blog-capstone-pt-2) | [Advanced] Blog Capstone Project Part 2 - Adding Styling |
+| 59 | [Blog Capstone Project<br>Part 2: Adding Styling](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-59/blog-capstone-pt-2) | [Advanced] Blog Capstone Project Part 2 - Adding Styling |
 | 60 | | [Advanced] Make POST Requests with Flask and HTML Forms |
 </details>
 <details open=""><summary>Days 61-70</summary>
