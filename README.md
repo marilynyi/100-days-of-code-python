@@ -18,7 +18,7 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 59
+## Days Completed: 60
 
 >**Notes**:
 >Demo gifs currently TBD for days 32-38
@@ -111,7 +111,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 57 | [Blog Capstone Project<br>Part 1: Templating](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-57/blog-capstone-pt-1) | [Intermediate+] Templating with Jinja in Flask Applications |
 | 58 | [TinDog Startup Website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-58/tindog) | [Web Foundation] Web Foundation Bootstrap |
 | 59 | [Blog Capstone Project<br>Part 2: Adding Styling](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-59/blog-capstone-pt-2) | [Advanced] Blog Capstone Project Part 2 - Adding Styling |
-| 60 | | [Advanced] Make POST Requests with Flask and HTML Forms |
+| 60 | [Blog Capstone Project:<br>Making the Contact Form Work](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-60/project/blog-capstone)| [Advanced] Make POST Requests with Flask and HTML Forms |
 </details>
 <details open=""><summary>Days 61-70</summary>
 
