@@ -5,6 +5,7 @@ from wtforms import StringField, PasswordField, SubmitField
 from wtforms.validators import DataRequired, Email, Length
 from flask_bootstrap import Bootstrap4
 
+# pip install Flask-WTF
 # pip install wtforms[email]
 # pip install bootstrap-flask
 
