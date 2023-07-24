@@ -38,16 +38,12 @@ For bitesize demos, see the Project Walkthrough section.
     >Hints: 
     >- https://flask-wtf.readthedocs.io/en/1.0.x/quickstart/
     >- https://bootstrap-flask.readthedocs.io/en/stable/macros/#render-form
-    
-<br>
 
 7. Make sure that the location URL field has validation that checks the data entered is a valid URL.
 
     >Hints:
     >- https://wtforms.readthedocs.io/en/2.3.x/validators/
     >- How to switch off client-side (browser) validation with quick_forms: https://stackoverflow.com/a/61166621/10557313
-
-<br>
 
 8. When the user successfully submits the form on add.html, make sure the data gets added to the cafe-data.csv. It needs to be appended to the end of the csv file. The data from each field need to be comma-separated like all the other lines of data in cafe-data.csv.
 
