@@ -37,7 +37,7 @@ For bitesize demos, see the Project Walkthrough section.
 
     >Hints: 
     >- https://flask-wtf.readthedocs.io/en/1.0.x/quickstart/
-    >-https://bootstrap-flask.readthedocs.io/en/stable/macros/#render-form
+    >- https://bootstrap-flask.readthedocs.io/en/stable/macros/#render-form
     
 <br>
 
