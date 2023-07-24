@@ -18,7 +18,7 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 61
+## Days Completed: 62
 
 >**Notes**:
 >Demo gifs currently TBD for days 32-38
@@ -118,7 +118,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
 | 61 | [Building Advanced Forms:<br>w/ WTForms and Bootstrap-Flask](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-61-70/day-61/building-advanced-forms) | [Advanced] Building Advanced Forms with Flask-WTForms |
-| 62 | | [Advanced] Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project |
+| 62 | [Coffee and Wifi Website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-61-70/day-62/coffee-and-wifi) | [Advanced] Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project |
 | 63 | | [Advanced] Databases with SQLite and SQLAlchemy |
 | 64 | | [Advanced] My Top 10 Movies Website |
 | 65 | | [Web Design School] How to Create a Website that People will Love |
