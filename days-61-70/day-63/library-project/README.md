@@ -1,6 +1,6 @@
 # Day 63: Library Project
 
-In the starting lessons, we built a simple [Flask website]("../starting-library/") to add and store books. 
+In the starting lessons, we built a simple [Flask website]("../examples/starting-library/") to add and store books. 
 
 We add upon this website by building an SQLite database so that any books added are stored in the database. 
 
