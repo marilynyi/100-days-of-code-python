@@ -1,6 +1,6 @@
 # Day 63: Library Project
 
-In the starting lessons, we built a simple [Flask website]("../examples/starting-library/") to add and store books. 
+In the example lessons, we built a [simple library website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-61-70/day-63/examples/starting-library) using Flask to add and store books. 
 
 We add upon this website by building an SQLite database so that any books added are stored in the database. 
 
