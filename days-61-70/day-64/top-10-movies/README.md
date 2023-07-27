@@ -1,8 +1,6 @@
 # Day 64: Top 10 Movies
 
-In the example lessons, we built a [simple library website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-61-70/day-63/examples/starting-library) using Flask to add and store books. 
-
-We add upon this website by building an SQLite database so that any books added are stored in the database. 
+We build a website that compiles a list of our top favorite movies of all time using Flask, WTForms, SQLite, and SQLAlchemy. It will allow us to create a beautiful website that lists our top 10 films of all time. As we watch more movies, we can always update our list and keep track of which movies to recommend people.
 
 ## Project Requirements
 
