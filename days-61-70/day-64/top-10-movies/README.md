@@ -2,6 +2,12 @@
 
 We build a website that compiles a list of our top favorite movies of all time using Flask, WTForms, SQLite, and SQLAlchemy. It will allow us to create a beautiful website that lists our top 10 films of all time. As we watch more movies, we can always update our list and keep track of which movies to recommend people.
 
+## Project Demo
+
+Showcasing personal top 10 favorite movies with ratings and reviews.
+
+<img src="demos/top-10-movies.gif" alt="top 10 movies">
+
 ## Project Requirements
 
 1. View movie list items
