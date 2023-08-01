@@ -65,6 +65,6 @@ At the moment the front of the movie card says None in large letters. This is be
 
 Instead, we want it to display the ranking of the movie according to our rating.
 
-In the example below, we have rated The Matrix a score of 8.7 When we add Jurassic Park with a higher rating of 9.4, The Matrix is now ranked #2 and Jurassic Park takes the #1 spot.
+In the example below, we have rated The Matrix a score of 8.7. When we add Jurassic Park with a higher rating of 9.4, The Matrix is now ranked #2 and Jurassic Park takes the #1 spot.
 
 <img src="demos/req5_demo.gif" alt="sorting and ranking movies">
