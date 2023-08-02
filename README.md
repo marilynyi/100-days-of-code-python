@@ -132,7 +132,7 @@ This repository houses all Python guided projects and relevant coding examples I
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
-| 71 | | [Advanced] Data Exploration with Pandas: College Major vs. Your Salary |
+| 71 | [Salaries by College Major](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-71/salaries-by-college-major) | [Advanced] Data Exploration with Pandas: College Major vs. Your Salary |
 | 72 | | [Advanced] Data Visualization with Matplotlib: Programming Languages | 
 | 73 | | [Advanced] Aggregate & Merge Data with Pandas: Analyze the Lego Dataset |
 | 74 | | [Advanced] Google Trends Data: Resampling and Visualizing Time Series |
