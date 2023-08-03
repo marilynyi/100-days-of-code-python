@@ -18,7 +18,7 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 65
+## Days Completed: 66
 
 >**Notes**:
 >Demo gifs currently TBD for days 32-38
@@ -133,7 +133,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
 | 71 | [Salaries by College Major](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-71/salaries-by-college-major) | [Advanced] Data Exploration with Pandas: College Major vs. Your Salary |
-| 72 | | [Advanced] Data Visualization with Matplotlib: Programming Languages | 
+| 72 | [Popularity of Programming Languages](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-72/popularity-of-programming-languages) | [Advanced] Data Visualization with Matplotlib: Programming Languages | 
 | 73 | | [Advanced] Aggregate & Merge Data with Pandas: Analyze the Lego Dataset |
 | 74 | | [Advanced] Google Trends Data: Resampling and Visualizing Time Series |
 | 75 | | [Advanced] Beautiful Plotly Charts & Analyzing the Android App Store |
