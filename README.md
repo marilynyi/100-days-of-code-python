@@ -98,7 +98,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 49 | [Automate LinkedIn Easy Apply](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-49/automate-linkedin-easy-apply/)| [Intermediate+] Automating Job Applications on LinkedIn | 
 | 50 | [Automate Giphy GIF Likes](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-50/automate-giphy-gif-likes/)| [Intermediate+] Auto Tinder Swiping Bot | 
 </details>
-<details open=""><summary>Days 51-60</summary>
+<details><summary>Days 51-60</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
@@ -128,7 +128,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 69 | | [Advanced] Blog Capstone Project 4 - Adding Users |
 | 70 | | [Advanced] Deploying Your Web Application with Heroku |
 </details>
-<details><summary>Days 71-80</summary>
+<details open=""><summary>Days 71-80</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
