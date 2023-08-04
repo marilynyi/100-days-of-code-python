@@ -18,10 +18,11 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 66
+## Days Completed: 67
 
 >**Notes**:
->Demo gifs currently TBD for days 32-38
+>- Demo gifs currently TBD for days 32-38
+>- Skipped days 66-70; will circle back
 
 <details><summary>Days 1-10</summary>
 
@@ -121,7 +122,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 62 | [Coffee and Wifi Website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-61-70/day-62/coffee-and-wifi) | [Advanced] Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project |
 | 63 | [Library Website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-61-70/day-63/library-project) | [Advanced] Databases with SQLite and SQLAlchemy |
 | 64 | [Top 10 Movies](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-61-70/day-64/top-10-movies) | [Advanced] My Top 10 Movies Website |
-| 65 | | [Web Design School] How to Create a Website that People will Love |
+| 65 | [Travel Destination Website](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-61-70/day-65/web-design-in-canva) | [Web Design School] How to Create a Website that People will Love |
 | 66 | | [Advanced] Building Your Own API with RESTful Routing |
 | 67 | | [Advanced] Blog Capstone Project Part 3 - RESTful Routing |
 | 68 | | [Advanced] Authentication with Flask |
