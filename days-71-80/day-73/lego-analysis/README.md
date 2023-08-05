@@ -14,5 +14,3 @@ Learning objectives:
 - How to create scatter plots, bar charts, and line charts with two axes in Matplotlib
 - Understand database schemas that are organized by primary and foreign keys
 - How to merge DataFrames that share a common key
-
-We use the 
