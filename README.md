@@ -18,11 +18,11 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 68
+## Days Completed: 69
 
 >**Notes**:
 >- Demo gifs currently TBD for days 32-38
->- Skipped days 66-70; will circle back
+>- Skipping around days past 65
 
 <details><summary>Days 1-10</summary>
 
@@ -144,11 +144,11 @@ This repository houses all Python guided projects and relevant coding examples I
 | 79 | | [Advanced] The Tragic Discovery of Handwashing: t-Tests & Distributions |
 | 80 | | [Advanced] Capstone Project - Predict House Prices |
 </details>
-<details><summary>Days 81-90</summary>
+<details open=""><summary>Days 81-90</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
-| 81 | | [Professional Portfolio Project] Python Scripting |
+| 81 | [Text to Morse Code Converter](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-81-90/day-81/text-to-morse-code-converter) | [Professional Portfolio Project] Python Scripting |
 | 82 | | [Professional Portfolio Project] Python Web Development |
 | 83 | | [Professional Portfolio Project] Python Scripting |
 | 84 | | [Professional Portfolio Project] GUI |
