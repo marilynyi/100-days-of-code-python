@@ -1,4 +1,4 @@
-# Day 72: Popularity of Programming Languages
+# Day 73: Popularity of Programming Languages
 
 Analyze the popularity of different programming languages over time using post tags in Stack Overflow.
 

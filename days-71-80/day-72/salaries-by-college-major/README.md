@@ -1,4 +1,4 @@
-# Day 71: Salaries by College Major
+# Day 72: Salaries by College Major
 
 Learn data exploration with Pandas by analyzing post-university salaries of graduates by major.
 

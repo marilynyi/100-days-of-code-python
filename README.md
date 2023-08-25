@@ -127,50 +127,50 @@ This repository houses all Python guided projects and relevant coding examples I
 | 67 | | [Advanced] Blog Capstone Project Part 3 - RESTful Routing |
 | 68 | | [Advanced] Authentication with Flask |
 | 69 | | [Advanced] Blog Capstone Project 4 - Adding Users |
-| 70 | | [Advanced] Deploying Your Web Application with Heroku |
+| 70 | | [Advanced] Git, Github and Version Control |
 </details>
 <details open=""><summary>Days 71-80</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
-| 71 | [Salaries by College Major](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-71/salaries-by-college-major) | [Advanced] Data Exploration with Pandas: College Major vs. Your Salary |
-| 72 | [Popularity of Programming Languages](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-72/popularity-of-programming-languages) | [Advanced] Data Visualization with Matplotlib: Programming Languages | 
-| 73 | [Analysis of LEGO Sets](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-73/lego-analysis) | [Advanced] Aggregate & Merge Data with Pandas: Analyze the Lego Dataset |
-| 74 | | [Advanced] Google Trends Data: Resampling and Visualizing Time Series |
-| 75 | | [Advanced] Beautiful Plotly Charts & Analyzing the Android App Store |
-| 76 | | [Advanced] Computation with NumPy and N-Dimensional Arrays |
-| 77 | | [Advanced] Linear Regression and Data Visualization with Seaborn |
-| 78 | | [Advanced] Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn |
-| 79 | | [Advanced] The Tragic Discovery of Handwashing: t-Tests & Distributions |
-| 80 | | [Advanced] Capstone Project - Predict House Prices |
+| 71 | | [Advanced] Deploying Your Web Application |
+| 72 | [Salaries by College Major](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-72/salaries-by-college-major) | [Advanced] Data Exploration with Pandas: College Major vs. Your Salary |
+| 73 | [Popularity of Programming Languages](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-73/popularity-of-programming-languages) | [Advanced] Data Visualization with Matplotlib: Programming Languages | 
+| 74 | [Analysis of LEGO Sets](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-74/lego-analysis) | [Advanced] Aggregate & Merge Data with Pandas: Analyze the Lego Dataset |
+| 75 | [Google Search Trends](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-75/google-search-trends) | [Advanced] Google Trends Data: Resampling and Visualizing Time Series |
+| 76 | | [Advanced] Beautiful Plotly Charts & Analyzing the Android App Store |
+| 77 | | [Advanced] Computation with NumPy and N-Dimensional Arrays |
+| 78 | | [Advanced] Linear Regression and Data Visualization with Seaborn |
+| 79 | | [Advanced] Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn |
+| 80 | | [Advanced] The Tragic Discovery of Handwashing: t-Tests & Distributions |
 </details>
 <details open=""><summary>Days 81-90</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
-| 81 | [Text to Morse Code Converter](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-81-90/day-81/text-to-morse-code-converter) | [Professional Portfolio Project] Python Scripting |
-| 82 | | [Professional Portfolio Project] Python Web Development |
-| 83 | | [Professional Portfolio Project] Python Scripting |
-| 84 | | [Professional Portfolio Project] GUI |
+| 81 | | [Advanced] Capstone Project - Predict House Prices |
+| 82 | [Text to Morse Code Converter](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-81-90/day-81/text-to-morse-code-converter) | [Professional Portfolio Project] Python Scripting |
+| 83 | | [Professional Portfolio Project] Python Web Development |
+| 84 | | [Professional Portfolio Project] Python Scripting |
 | 85 | | [Professional Portfolio Project] GUI |
-| 86 | | [Professional Portfolio Project] Game |
-| 87 | | [Professional Portfolio Project] Web Development |
+| 86 | | [Professional Portfolio Project] GUI |
+| 87 | | [Professional Portfolio Project] Game |
 | 88 | | [Professional Portfolio Project] Web Development |
-| 89 | | [Professional Portfolio Project] GUI Desktop App |
-| 90 | | [Professional Portfolio Project] HTTP Requests & APIs |
+| 89 | | [Professional Portfolio Project] Web Development |
+| 90 | | [Professional Portfolio Project] GUI Desktop App |
 </details>
 <details><summary>Days 91-100</summary>
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
-| 91 | | [Professional Portfolio Project] Image Processing & Data Science |
-| 92 | | [Professional Portfolio Project] Web Scraping |
-| 93 | | [Professional Portfolio Project] GUI Automation |
-| 94 | | [Professional Portfolio Project] Game |
-| 95 | | [Professional Portfolio Project] HTTP Requests & APIs |
-| 96 | | [Professional Portfolio Project] Web Development |
-| 97 | | [Professional Portfolio Project] Python Automation |
-| 98 | | [Professional Portfolio Project] Data Science |
+| 91 | | [Professional Portfolio Project] HTTP Requests & APIs |
+| 92 | | [Professional Portfolio Project] Image Processing & Data Science |
+| 93 | | [Professional Portfolio Project] Web Scraping |
+| 94 | | [Professional Portfolio Project] GUI Automation |
+| 95 | | [Professional Portfolio Project] Game |
+| 96 | | [Professional Portfolio Project] HTTP Requests & APIs |
+| 97 | | [Professional Portfolio Project] Web Development |
+| 98 | | [Professional Portfolio Project] Python Automation |
 | 99 | | [Professional Portfolio Project] Data Science |
 | 100 | | [Professional Portfolio Project] Data Science |
 
