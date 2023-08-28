@@ -18,7 +18,7 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 71
+## Days Completed: 72
 
 >**Notes**:
 >- Demo gifs currently TBD for days 32-38
@@ -139,7 +139,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 74 | [Analysis of LEGO Sets](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-74/lego-analysis) | [Advanced] Aggregate & Merge Data with Pandas: Analyze the Lego Dataset |
 | 75 | [Google Search Trends](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-75/google-search-trends) | [Advanced] Google Trends Data: Resampling and Visualizing Time Series |
 | 76 | [Google Play Store App Analytics](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-76/google-play-store-app-analytics) | [Advanced] Beautiful Plotly Charts & Analyzing the Android App Store |
-| 77 | | [Advanced] Computation with NumPy and N-Dimensional Arrays |
+| 77 | [Numpy and N-Dimensional Arrays](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-77/numpy-and-ndimensional-arrays) | [Advanced] Computation with NumPy and N-Dimensional Arrays |
 | 78 | | [Advanced] Linear Regression and Data Visualization with Seaborn |
 | 79 | | [Advanced] Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn |
 | 80 | | [Advanced] The Tragic Discovery of Handwashing: t-Tests & Distributions |
