@@ -18,7 +18,7 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 73
+## Days Completed: 74
 
 >**Notes**:
 >- Demo gifs currently TBD for days 32-38
@@ -141,7 +141,7 @@ This repository houses all Python guided projects and relevant coding examples I
 | 76 | [Google Play Store App Analytics](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-76/google-play-store-app-analytics) | [Advanced] Beautiful Plotly Charts & Analyzing the Android App Store |
 | 77 | [Numpy and N-Dimensional Arrays](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-77/numpy-and-ndimensional-arrays) | [Advanced] Computation with NumPy and N-Dimensional Arrays |
 | 78 | [Movie Budget-Revenue Analysis](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-78/movie-budget-revenue-analysis) | [Advanced] Linear Regression and Data Visualization with Seaborn |
-| 79 | | [Advanced] Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn |
+| 79 | [Nobel Prize Winners](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-71-80/day-79/nobel-prize-winners) | [Advanced] Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn |
 | 80 | | [Advanced] The Tragic Discovery of Handwashing: t-Tests & Distributions |
 </details>
 <details open=""><summary>Days 81-90</summary>
