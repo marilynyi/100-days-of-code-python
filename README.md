@@ -18,7 +18,7 @@ This repository houses all Python guided projects and relevant coding examples I
 <br>
 
 # Current Progress
-## Days Completed: 75
+## Days Completed: 76
 
 >**Notes**:
 >- Demo gifs currently TBD for days 32-38
@@ -148,8 +148,8 @@ This repository houses all Python guided projects and relevant coding examples I
 
 | Day | <div style="width:220px">Project Name</div> | Lesson |
 | :--: | :-- | :-- |
-| 81 | | [Advanced] Capstone Project - Predict House Prices |
-| 82 | [Text to Morse Code Converter](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-81-90/day-81/text-to-morse-code-converter) | [Professional Portfolio Project] Python Scripting |
+| 81 | [Predicting House Prices](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-81-90/day-81/predict-house-prices) | [Advanced] Capstone Project - Predict House Prices |
+| 82 | [Text to Morse Code Converter](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-81-90/day-82/text-to-morse-code-converter) | [Professional Portfolio Project] Python Scripting |
 | 83 | | [Professional Portfolio Project] Python Web Development |
 | 84 | | [Professional Portfolio Project] Python Scripting |
 | 85 | | [Professional Portfolio Project] GUI |
